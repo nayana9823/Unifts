@@ -1,6 +1,7 @@
 
 # 🎁Unifts:
- An online e-commerce store where you can find perfect gifts for your loved ones.
+Unifts was born from the realization that the market did not have enough platforms to offer unique hand crafted gifts. The main goal is to create a collection that goes beyond the usual options to give customers a different and memorable gift. This goal informs all decisions made throughout the project. Unifts is an e-commerce hand-crafted gift shopping platform where users can find unique gifts for their loved ones.
+
 
 ## ⭐Features:
 
