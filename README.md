@@ -25,9 +25,4 @@
 6. vanilla CSS
 7. react router
 
-## Get the source Code:
- https://lnkd.in/dKh4rDGn
-
-## Live Link:
-https://lnkd.in/dkcAsB8Z
-
+## Deployment Link : https://unifts-nayana9823s-projects.vercel.app/
